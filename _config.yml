@@ -9,7 +9,7 @@ name: Steven Knight Kukard
 description: Composer • Writer • Editor
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: stevenkukard.github.io/images/Steven_portrait_small.jpg
+avatar: https://www.stevenknightkukard.com/images/Steven_portrait_small.jpg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github:
   instagram: stevenkukard
   linkedin: stevenkukard
   pinterest:
