@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing – 1, 2, 3
+title: Welcome
 ---
 
-Here is some text to see the effects of updating a post.
+Welcome to my online home. I would offer you a seat, but as you can see my interior decor is somewhat minimalist at the moment.
